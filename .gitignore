@@ -5,3 +5,14 @@ x64_dbg_bridge/Win32/*
 x64_dbg_exe/Win32/*
 x64_dbg_dbg/Win32/*
 help/*
+
+bin/x32/dbghelp.dll
+bin/x32/sqlite.dll
+bin/x32/test.dll
+bin/x32/test.exe
+bin/x32/x32_bridge.exp
+bin/x32/x32_bridge.lib
+bin/x32/x32_bridge.pdb
+bin/x32/x32_dbg.exp
+bin/x32/x32_dbg.lib
+bin/x32/x32_dbg.pdb

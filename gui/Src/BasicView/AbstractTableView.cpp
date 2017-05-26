@@ -81,7 +81,7 @@ void AbstractTableView::paintEvent(QPaintEvent* event)
     }
 
     // Paints background
-    wPainter.fillRect(wPainter.viewport(), QBrush(QColor(255, 251, 240)));
+    wPainter.fillRect(wPainter.viewport(), QBrush(QColor( 240, 255, 247)));
 
     // Paints header
     if(mHeader.isVisible == true)

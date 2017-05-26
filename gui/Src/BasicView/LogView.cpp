@@ -8,7 +8,7 @@ LogView::LogView(QWidget *parent) : QTextEdit(parent)
 
     this->setFont(wFont);
 
-    this->setStyleSheet("QTextEdit { background-color: rgb(255, 251, 240) }");
+    this->setStyleSheet("QTextEdit { background-color: rgb( 240, 255, 247) }");
     this->setUndoRedoEnabled(false);
     this->setReadOnly(true);
 

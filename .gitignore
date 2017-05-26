@@ -16,3 +16,7 @@ bin/x32/x32_bridge.pdb
 bin/x32/x32_dbg.exp
 bin/x32/x32_dbg.lib
 bin/x32/x32_dbg.pdb
+
+*/Win32/*
+*/x64/*
+x64/*

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbg_bridge", "dbg_bridge\dbg_bridge.vcxproj", "{944D9923-CB1A-6F6C-BCBC-9E00A71954C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbg_dbg", "dbg_dbg\dbg_dbg.vcxproj", "{E6548308-401E-3A8A-5819-905DB90522A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbg_exe", "dbg_exe\dbg_exe.vcxproj", "{3A22175E-6B72-FDCC-1603-C4A2163C7900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944D9923-CB1A-6F6C-BCBC-9E00A71954C1}.Release|x64.ActiveCfg = Release|x64
+		{944D9923-CB1A-6F6C-BCBC-9E00A71954C1}.Release|x64.Build.0 = Release|x64
+		{944D9923-CB1A-6F6C-BCBC-9E00A71954C1}.Release|x86.ActiveCfg = Release|Win32
+		{944D9923-CB1A-6F6C-BCBC-9E00A71954C1}.Release|x86.Build.0 = Release|Win32
+		{E6548308-401E-3A8A-5819-905DB90522A6}.Release|x64.ActiveCfg = Release|x64
+		{E6548308-401E-3A8A-5819-905DB90522A6}.Release|x64.Build.0 = Release|x64
+		{E6548308-401E-3A8A-5819-905DB90522A6}.Release|x86.ActiveCfg = Release|Win32
+		{E6548308-401E-3A8A-5819-905DB90522A6}.Release|x86.Build.0 = Release|Win32
+		{3A22175E-6B72-FDCC-1603-C4A2163C7900}.Release|x64.ActiveCfg = Release|x64
+		{3A22175E-6B72-FDCC-1603-C4A2163C7900}.Release|x64.Build.0 = Release|x64
+		{3A22175E-6B72-FDCC-1603-C4A2163C7900}.Release|x86.ActiveCfg = Release|Win32
+		{3A22175E-6B72-FDCC-1603-C4A2163C7900}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

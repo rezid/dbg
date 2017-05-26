@@ -81,7 +81,7 @@ FORMS += \
 
 LIBS += \
     -L"$$PWD/Src/ThirdPartyLibs/BeaEngine/" -lBeaEngine \
-    -L"$$PWD/Src/Bridge/" -lx32_bridge \
+    -L"$$PWD/Src/Bridge/" -lbridge \
     -luser32
 
 RESOURCES += \

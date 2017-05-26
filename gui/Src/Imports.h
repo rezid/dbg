@@ -2,7 +2,7 @@
 #define IMPORTS_H
 
 #ifdef BUILD_LIB
-    #include "..\..\..\x64_dbg_bridge\bridgemain.h"
+    #include "..\..\..\dbg_bridge\bridgemain.h"
 #else
     #include "NewTypes.h"
     void stubReadProcessMemory(byte_t* dest, uint_t va, uint_t size);

@@ -4,3 +4,4 @@ build-gui*
 x64_dbg_bridge/Win32/*
 x64_dbg_exe/Win32/*
 x64_dbg_dbg/Win32/*
+help/*
